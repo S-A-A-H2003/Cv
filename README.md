@@ -33,9 +33,17 @@ Al-Aqsa University, Gaza
 ---
 
 ## PROJECTS:
-### E-commerce Website: Clicon  
-Developed an e-commerce platform using React and Laravel for buying and selling electronic devices online.
+### E-commerce Website: [Clicon](https://github.com/S-A-A-H2003/Clicon)
 
+### Music player application introduction website: [Move](https://github.com/S-A-A-H2003/Move)
+
+### Simple restaurant profile page: [Halap-Restaurant](https://github.com/S-A-A-H2003/Halap-Resturent)
+
+### Simple personal website page : [Portfolio-Website](https://github.com/S-A-A-H2003/Portfolio-Website)
+
+
+
+مA
 ---
 
 ## PERSONAL SKILLS:
