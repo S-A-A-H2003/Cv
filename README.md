@@ -40,29 +40,29 @@ A university student specializing in Full Stack web development with hands-on ex
 ### 🔧 Back-End:
 - **Store Manager:**  
   GitHub: [Befa_StoreManager](https://github.com/S-A-A-H2003/Befa_StoreManager)  
-  YouTube: [Watch Demo](https://youtu.be/lNIqyauMuD4?si=B3xsxqk9Tqp3Ti7W)  
+  YouTube: [Watch](https://youtu.be/lNIqyauMuD4?si=B3xsxqk9Tqp3Ti7W)  
   An e-commerce website that allows the admin to manage products, categories, orders, customers, and more. Built using   PHP/Laravel.
 
 ### 🎨 Front-End:
 
 - **🛒 Clicon – E-commerce Website:**  
   GitHub: [Clicon](https://github.com/S-A-A-H2003/Clicon)  
-  YouTube: [Watch Demo](https://youtu.be/zHW4dtTEVqM?si=hRJKKcDMsX8Lku8T)  
+  YouTube: [Watch](https://youtu.be/zHW4dtTEVqM?si=hRJKKcDMsX8Lku8T)  
   Displays electronics products with features like cart, wishlist, comparison. Built with React, TypeScript, Sass.
 
 - **🍽️ Halap-Restaurant – Restaurant Profile Page:**  
   GitHub: [Halap-Restaurant](https://github.com/S-A-A-H2003/Halap-Resturent)  
-  YouTube: [Watch Demo](https://youtu.be/M1vgzBoGlLg?si=HJbDYEC-G5NZqmSe)  
+  YouTube: [Watch](https://youtu.be/M1vgzBoGlLg?si=HJbDYEC-G5NZqmSe)  
   Introductory page with restaurant info, menu, and social links. Built using React, HTML, CSS, JavaScript.
 
 - **🎵 Move – Music App Landing Page:**  
   GitHub: [Move](https://github.com/S-A-A-H2003/Move)  
-  YouTube: [Watch Demo](https://youtu.be/86L0k3WTROM?si=KbjL5E896bJh6A_M)  
+  YouTube: [Watch](https://youtu.be/86L0k3WTROM?si=KbjL5E896bJh6A_M)  
   A landing page for a music app showcasing features, pricing, and reviews. Built using React, JavaScript, CSS, HTML.
 
 - **✈️ Tripma – Travel Website:**  
   GitHub: [Tripma](https://github.com/S-A-A-H2003/Tripma)  
-  YouTube: [Watch Demo](https://youtu.be/bPxwHyd7etE?si=zbVRnahgPtpf4puj)  
+  YouTube: [Watch](https://youtu.be/bPxwHyd7etE?si=zbVRnahgPtpf4puj)  
   A frontend travel site.
 
 ---
@@ -79,8 +79,8 @@ A university student specializing in Full Stack web development with hands-on ex
 
 ## 🌍 LANGUAGES
 
-- 🇵🇸 Arabic (Native)  
-- 🇬🇧 English (Proficient at a work level)
+-  Arabic (Native)  
+-  English (Proficient at a work level)
 
 ---
 
