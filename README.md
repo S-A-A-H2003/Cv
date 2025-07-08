@@ -38,23 +38,32 @@ A university student specializing in Full Stack web development with hands-on ex
 ## 🚀 PROJECTS
 
 ### 🔧 Back-End:
-- **Store Manager:** [Befa_StoreManager](https://github.com/S-A-A-H2003/Befa_StoreManager)  
-  An e-commerce website that allows the admin to create, update and delete products, categories, manage the orders, customers and many more features. It was built using PHP/Laravel.
+- **Store Manager:**  
+  GitHub: [Befa_StoreManager](https://github.com/S-A-A-H2003/Befa_StoreManager)  
+  YouTube: [Watch Demo](https://youtu.be/lNIqyauMuD4?si=B3xsxqk9Tqp3Ti7W)  
+  An e-commerce website that allows the admin to manage products, categories, orders, customers, and more. Built using   PHP/Laravel.
 
 ### 🎨 Front-End:
-- **🛒 E-commerce Website:** [Clicon](https://github.com/S-A-A-H2003/Clicon)  
-  An e-commerce website that displays electronics products that allows the user to buy products, add them to the cart, add them to favorites, compare prices, and many more features. It was built using React, TypeScript, Sass, HTML.
 
-- **✈️ Website:** [Tripma](https://github.com/S-A-A-H2003/Tripma)
+- **🛒 Clicon – E-commerce Website:**  
+  GitHub: [Clicon](https://github.com/S-A-A-H2003/Clicon)  
+  YouTube: [Watch Demo](https://youtu.be/zHW4dtTEVqM?si=hRJKKcDMsX8Lku8T)  
+  Displays electronics products with features like cart, wishlist, comparison. Built with React, TypeScript, Sass.
 
-- **🎵 Music player application introduction website:** [Move](https://github.com/S-A-A-H2003/Move)  
-  This is a demo site for a music player app called move that showcases the app's features, subscription pricing, customer reviews, and more. It was built using React, JavaScript, CSS, HTML.
+- **🍽️ Halap-Restaurant – Restaurant Profile Page:**  
+  GitHub: [Halap-Restaurant](https://github.com/S-A-A-H2003/Halap-Resturent)  
+  YouTube: [Watch Demo](https://youtu.be/M1vgzBoGlLg?si=HJbDYEC-G5NZqmSe)  
+  Introductory page with restaurant info, menu, and social links. Built using React, HTML, CSS, JavaScript.
 
-- **🍽️ Simple restaurant profile page:** [Halap-Restaurant](https://github.com/S-A-A-H2003/Halap-Resturent)  
-  A simple introductory page that displays the menu of a restaurant, with links to the restaurant's social media sites and some information about it. It was built using React, HTML, CSS, JavaScript.
+- **🎵 Move – Music App Landing Page:**  
+  GitHub: [Move](https://github.com/S-A-A-H2003/Move)  
+  YouTube: [Watch Demo](https://youtu.be/86L0k3WTROM?si=KbjL5E896bJh6A_M)  
+  A landing page for a music app showcasing features, pricing, and reviews. Built using React, JavaScript, CSS, HTML.
 
-- **👤 Simple personal website page:** [Portfolio-Website](https://github.com/S-A-A-H2003/Portfolio-Website)  
-  A simple personal website, similar to an introductory website, that displays some information about its owner, such as his skills, specialization, and other information. It was built using HTML, CSS, and JavaScript.
+- **✈️ Tripma – Travel Website:**  
+  GitHub: [Tripma](https://github.com/S-A-A-H2003/Tripma)  
+  YouTube: [Watch Demo](https://youtu.be/bPxwHyd7etE?si=zbVRnahgPtpf4puj)  
+  A frontend travel site.
 
 ---
 
