@@ -39,7 +39,7 @@ A university student specializing in Full Stack web development with hands-on ex
 
 ### 🔧 Back-End:
 - **Store Manager:**  
-  GitHub: [Befa_StoreManager](https://github.com/S-A-A-H2003/Befa_StoreManager)  
+  GitHub: [Store-Manager](https://github.com/S-A-A-H2003/Store-Manager)  
   YouTube: [Watch](https://youtu.be/lNIqyauMuD4?si=B3xsxqk9Tqp3Ti7W)  
   An e-commerce website that allows the admin to manage products, categories, orders, customers, and more. Built using   PHP/Laravel.
 
