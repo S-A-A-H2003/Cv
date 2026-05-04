@@ -1,62 +1,75 @@
 # Saeed Alaa Abu Halima
 
-**Backend Developer**
-
-📞 (+972) 0594659440  
-✉️ Saeed.Alaa.AbuHalima@gmail.com  
-🌍 Palestine, Gaza  
-[LinkedIn](https://linkedIn.com/in/S-A-A-H2003) | [GitHub](https://github.com/S-A-A-H2003)
++972594659440 | Gaza, Palestine | Saeed.Alaa.AbuHalima@gmail.com | [LinkedIn](https://linkedIn.com/in/s-a-a-h2003) | [GitHub](https://github.com/S-A-A-H2003)
 
 ---
 
-## Summary
-Backend Developer with strong academic background and hands-on experience in building secure and scalable server-side applications. Skilled in PHP, Laravel, MySQL, and system architecture, with proven ability to design RESTful APIs and manage data-driven applications. Experienced in working on academic and personal projects, collaborating within teams, and solving problems under tight deadlines. Passionate about backend development, continuous learning, and delivering efficient digital solutions.
+## SUMMARY
+Backend Developer specializing in PHP and Laravel with React, with a strong focus on understanding business requirements first, then translating them into scalable system architecture and database design before starting development. Experienced in building real-world platforms with complex workflows. Passionate about clean architecture, problem solving, and building systems that align with real business needs.
 
 ---
 
-## Education
-**Bachelor of Information Technology** | Al-Aqsa University, Gaza  
-_February 2021 – January 2026_  
-- GPA: 85.21
+## TECHNICAL SKILLS
+
+**Backend:** PHP, Laravel, REST APIs, MVC Architecture  
+**Database:** MySQL (Design, Optimization, Relationships)  
+**Frontend:** JavaScript, React  
+**Tools:** Git, GitHub, Postman  
+**Concepts:** OOP, Problem Solving  
 
 ---
 
-## Skills
-- Backend Development (PHP, Laravel)  
-- Frontend Development (HTML, CSS, JavaScript, React.js)  
-- Databases (MySQL, SQL, Oracle)  
-- RESTful API Design & Implementation  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms  
-- Version Control (Git/GitHub)  
-- Information Security (Authentication, Authorization)  
-- Problem Solving & Team Collaboration  
+## TECHNICAL PROJECTS
+
+### Maham | Backend Developer | Laravel | [GitHub](https://github.com/S-A-A-H2003) | Visit
+A project management platform that enables companies to manage technical projects, assign tasks, and evaluate submissions.
+
+- Designed and implemented a scalable backend system using Laravel to manage projects.
+- Architected a relational database system using MySQL to support complex relationships between users, projects, tasks, and submissions.
+- Built a competitive task system where multiple users submit solutions and the best submission is selected based on defined criteria.
+- Implemented business logic for budget allocation across projects and tasks, ensuring structured financial tracking.
 
 ---
 
-## Professional Experience
-**Currently focusing on academic and personal backend projects to strengthen expertise in server-side development**
+## PROFESSIONAL EXPERIENCE
 
-**Store Manager – Backend Project**  
-_Personal Project | Gaza | 2024_  
-- Built an e-commerce management system for products, categories, orders, and customers.  
-- Designed using PHP/Laravel with MySQL database.  
-- Applied authentication, authorization, and CRUD operations for admin users.  
-- GitHub: [Store-Manager](https://github.com/S-A-A-H2003/Store-Manager)
-- View: [Watch](https://youtu.be/lNIqyauMuD4?si=U51-NSZwweISgQXB)
+### Freelance Backend Developer | Self-Employed | Remote  
+**2025 – Present**
 
-**Maham – Graduation Project (In Progress)**  
-_Al-Aqsa University | Gaza | 2025–2026_
+- Developed a custom backend solution using Laravel based on client requirements, delivering a functional and scalable system.
+- Translated business needs into technical solutions by designing database structures and backend logic before implementation.
 
----
+### Trainee | Aristo Company | Gaza, Palestine  
+**2026**
 
-## Courses
-- React.js Bootcamp | Gaza Sky Geeks | 2024  
-- Advanced PHP & Laravel Bootcamp | Gaza Sky Geeks | 2025  
-- Agile Project Management with Jira | Self-learning | 2024
+- Attended a workshop on using AI tools to improve development productivity and code quality.
+- Learned how to effectively integrate AI into the development workflow.
+- Enhanced problem-solving approach by combining traditional coding with AI-assisted techniques.
 
 ---
 
-## Languages
-- Arabic  
-- English
+## EDUCATION
+
+### Al-Aqsa University | B.Sc. in Computer Science | Gaza, Palestine  
+Expected Graduation: July 2026  
+Grade: 85.61  
+
+Relevant Coursework:
+Data Structures, Algorithms, Database Systems, Software Engineering, Object-Oriented Programming, React Fundamentals  
+
+Developed strong foundations in problem solving, system design, backend development, and modern frontend development using React.
+
+---
+
+### Gaza Sky Geeks | Training Program | Gaza, Palestine  
+
+#### Backend Development (Laravel)
+- Completed hands-on training in backend development using Laravel.
+- Built real-world applications focusing on RESTful APIs and database design.
+- Applied best practices in MVC architecture and clean code principles.
+
+#### Frontend Development (React)
+- Worked on integrating frontend applications using React.
+- Connected React components with backend APIs built in Laravel.
+- Practiced state management and component-based architecture.
+- Developed interactive UI features in practical exercises.
