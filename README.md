@@ -21,7 +21,7 @@ Backend Developer specializing in PHP and Laravel with React, with a strong focu
 
 ## TECHNICAL PROJECTS
 
-### Maham | Backend Developer | Laravel | [GitHub](https://github.com/S-A-A-H2003) | [https://maham.kesug.com/](visit)
+### Maham | Backend Developer | Laravel | [GitHub](https://github.com/S-A-A-H2003) | [visit](https://maham.kesug.com)
 A project management platform that enables companies to manage technical projects, assign tasks, and evaluate submissions.
 
 - Designed and implemented a scalable backend system using Laravel to manage projects.
