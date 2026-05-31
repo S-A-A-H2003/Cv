@@ -73,3 +73,13 @@ Developed strong foundations in problem solving, system design, backend developm
 - Connected React components with backend APIs built in Laravel.
 - Practiced state management and component-based architecture.
 - Developed interactive UI features in practical exercises.
+
+---
+
+## Professional References
+
+- **Aymen Amairia** — Technical Lead & PHP Architect, IcSM®
+(France) | +33 6 43 40 71 69
+
+- **Adham Saad** — Business & Tech Advisor | Founder of Areisto
+(Palestinian Authority) | +970 598 390 152
