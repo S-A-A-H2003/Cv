@@ -26,7 +26,7 @@ Backend Developer specializing in PHP and Laravel with React, with a strong focu
 - Implemented an Nginx API gateway for request routing and configured RabbitMQ for asynchronous, event-driven communication between services.
 - Managed background consumers with Supervisor and orchestrated all services using Docker Compose.
 
-**Nova PM** · Backend Developer · Laravel · [GitHub](https://github.com/S-A-A-H2003/Nova-PM)
+**Nova PM** · Backend Developer · Laravel · [View](https://nova-pm.onrender.com) . [GitHub](https://github.com/S-A-A-H2003/Nova-PM)
 
 *A project management platform enabling companies to manage technical projects, assign tasks, and evaluate submissions.*
 
